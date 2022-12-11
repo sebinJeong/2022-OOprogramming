@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jeongsebin
- *
- */
-module ooprogramming {
-}
