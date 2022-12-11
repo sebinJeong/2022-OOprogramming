@@ -1,0 +1,34 @@
+음악,nation,top,1,인도,92.4 
+음악,nation,top,2,태국,88.3
+음악,nation,top,3,인도네시아,84.0
+음악,nation,bottom,1,러시아,50.5
+음악,nation,bottom,2,일본,52.8
+음악,nation,bottom,3,프랑스,61.4
+음악,artist,top,1,BTS,26.7
+음악,artist,top,2,블랙핑크,10.4
+음악,artist,top,3,아이유,2.8
+음악,artist,top,4,리사,2.4
+음악,artist,top,5,싸이,2.2
+드라마,nation,top,1,태국,92.6
+드라마,nation,top,2,아르헨티나,92.4
+드라마,nation,top,3,인도,91.1
+드라마,nation,bottom,1,일본,57.2
+드라마,nation,bottom,2,러시아,66.0
+드라마,nation,bottom,3,미국,71.4
+드라마,drama,top,1,오징어게임,21.2
+드라마,drama,top,2,사랑의 불시착,2.2
+드라마,drama,top,3,빈센조,1.9
+드라마,drama,top,4,펜트하우스,1.6
+드라마,drama,top,5,갯마을 차차차,1.4
+영화,nation,top,1,태국,91.5
+영화,nation,top,2,아르헨티나,91.4
+영화,nation,top,3,인도,91.2
+영화,nation,bottom,1,일본,60.6
+영화,nation,bottom,2,프랑스,66.8
+영화,nation,bottom,3,러시아,67.4
+영화,movie,top,1,기생충,10.3
+영화,movie,top,2,부산행,6.8
+영화,movie,top,3,서복,1.5
+영화,movie,top,4,미드나이트,1.3
+영화,movie,top,5,승리호,1.3
+
